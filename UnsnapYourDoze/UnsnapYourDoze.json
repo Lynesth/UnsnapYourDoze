@@ -1,0 +1,11 @@
+{
+  "Author": "Lynesth",
+  "Name": "Unsnap Your Doze",
+  "Punchline": "Prevents snapping to furniture when using /doze",
+  "Description": "",
+  "InternalName": "unsnapYourDoze",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "doze"
+  ]
+}
