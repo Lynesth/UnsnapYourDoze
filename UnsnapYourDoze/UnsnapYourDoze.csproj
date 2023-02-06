@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Authors></Authors>
     <Company></Company>
-    <Version>0.0.2</Version>
+    <Version>1</Version>
     <Description>Prevents snapping to furniture when using /doze</Description>
     <Copyright></Copyright>
     <PackageProjectUrl>https://github.com/lynesth/UnsnapYourDoze</PackageProjectUrl>

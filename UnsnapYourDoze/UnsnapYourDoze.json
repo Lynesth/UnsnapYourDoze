@@ -3,9 +3,10 @@
   "Name": "Unsnap Your Doze",
   "Punchline": "Prevents snapping to furniture when using /doze",
   "Description": "",
-  "InternalName": "unsnapYourDoze",
+  "InternalName": "UnsnapYourDoze",
   "ApplicableVersion": "any",
   "Tags": [
-    "doze"
+    "doze",
+    "emote"
   ]
 }
